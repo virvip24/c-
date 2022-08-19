@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\codetest\c++\ConsoleApplication1\ConsoleApplication1.cpp(382,14): warning C4244: “初始化”: 从“type”转换到“float”，可能丢失数据
+          with
+          [
+              type=double
+          ]
+  ConsoleApplication1.vcxproj -> C:\codetest\c++\ConsoleApplication1\Debug\ConsoleApplication1.exe
